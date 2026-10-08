@@ -1,0 +1,36 @@
+/* Style for all paragraphs */
+p {
+    color: #444444;
+    font-size: 16px;
+    line-height: 1.6;
+}
+/* Style for all h2 headings */
+h2 {
+    color: #2c5282;
+    font-size: 24px;
+    border-bottom: 2px solid #2c5282;
+    padding-bottom: 5px;
+}
+/* Style for all tables */
+table, th, td {
+    border: 1px solid #2c5282;
+    border-collapse: collapse;
+    padding: 10px;
+}
+/* Style for my third paragraph */
+#my-goal {
+    color: #2c5282;
+    background-color: #eef4fa;
+    padding: 10px;
+}
+/* Style for section title */
+.section-title {
+    background-color: #eef4fa;
+    padding: 8px;
+}
+/* Style for image */
+.logo {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+}
